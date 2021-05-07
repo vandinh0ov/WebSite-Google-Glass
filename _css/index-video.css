@@ -1,0 +1,15 @@
+video#filme1 {
+    display: block;
+    position: relative;
+    left: 40px;
+    top: auto;
+    width: 440px;
+}
+
+video#filme2 {
+    display: block;
+    position: relative;
+    left: auto;
+    top: auto;
+    width: 350px;
+}
